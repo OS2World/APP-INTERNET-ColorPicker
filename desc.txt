@@ -1,0 +1,25 @@
+        Archive Filename: cpicker0.0.1.zip
+       Short Description: ColorPicker is a small tool which allow to show RGB 
+                          value of the color over cursor. Values are displayed 
+                          in "HTML" format (#rrggbb), so you can use it to 
+                          paste in the html documents.
+
+        Long Description: (none)
+
+      Proposed directory
+           for placement:  /pub/os2/apps/internet/www/util/
+
+               Your name: Alex Samorukov
+           Email address: samm@os2.ru
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2
+ Additional requirements: (none)
+
+                Replaces: (none)
